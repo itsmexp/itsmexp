@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi, I'm Emanuele! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"></h1>
-<p><strong>I'm a Computer Science Master's student at University of Calabria. 🎓</strong></p>
+<p><strong>I'm a PhD Candidate in Computer Science at University of Calabria. 🎓</strong></p>
 </div>
 
 <div align="center">
